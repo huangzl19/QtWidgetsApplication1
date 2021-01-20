@@ -5,3 +5,4 @@ QtWidgetsApplication1::QtWidgetsApplication1(QWidget *parent)
 {
     ui.setupUi(this);
 }
+//testt
